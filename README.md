@@ -37,12 +37,12 @@ http://localhost:8080/admin/
 #    │      └── _includes    # 11ty templates
 #    │      └── posts        # Collection of text files for 'posts' section of website. 
 #    └── public
-    │      └── admin        # 11ty templates
-    │      └── _uploads     # Where media is stored for upload
-    └── .env                # File to store variables for server setup
-    └── tina
-    │      └── config.ts    # Define collections for section of webiste
-    │      └── database.ts  # Define how version control is managed through Git
+#    │      └── admin        # 11ty templates
+#    │      └── _uploads     # Where media is stored for upload
+#    └── .env                # File to store variables for server setup
+#    └── tina
+#    │      └── config.ts    # Define collections for section of webiste
+#    │      └── database.ts  # Define how version control is managed through Git
 
 ```
 
