@@ -1,6 +1,6 @@
 # 11ty Website with TinaCMS
 
-This guide shows you how to run your own 11ty (Static Site Generator) website with TinaCMS, giving non-technical users an easy way to edit content in the browser. This repository is a fork of [Bojidar Marinov’s excellent example](https://github.com/bojidar-bg/tina-true-selfhosted-example). Bojidar dis the hard work of making TinaCMS run with 11ty without relying on cloud hosting. This version: 
+This guide shows you how to run your own 11ty (Static Site Generator) website with TinaCMS, giving non-technical users an easy way to edit content in the browser. This repository is a fork of [Bojidar Marinov’s excellent example](https://github.com/bojidar-bg/tina-true-selfhosted-example). Bojidar did the hard work of making TinaCMS run with 11ty without relying on cloud hosting. This version: 
   
   - Provides a slightly more fleshed-out 11ty starter template.
   - A more concise README that walks through the key setup steps.
